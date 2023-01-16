@@ -6,10 +6,8 @@
       "192.168.100.0/22",
       "122.171.22.88/32"
     ]
-  }
-},
-{
-  "auth": {
+  },
+   "auth": {
     "identityProviders": {
       "azureActiveDirectory": {
         "registration": {
@@ -21,3 +19,4 @@
     }
   }
 }
+
